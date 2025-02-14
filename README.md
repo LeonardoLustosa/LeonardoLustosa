@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello! I'm Leonardo Amorim Lustosa
 
-<!--
-**LeonardoLustosa/LeonardoLustosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer currently studying **Systems Analysis and Development** in **Salvador, Brazil**. I'm looking for opportunities in the programming field where I can **learn, grow professionally, and gain experience**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 **Currently Studying:** Systems Analysis and Development  
+- 🌍 **Based in:** Salvador - BA, Brazil  
+- 💻 **Skills:**  
+  - C# & .NET (Basic)  
+  - Object-Oriented Programming (OOP)  
+  - HTML & CSS (Basic)
+- 📢 **Seeking Opportunities:** Open to learning and growing as a developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLustosa&layout=compact&theme=radical)
+
+## 📫 Contact Me
+- 📧 Email: leonardo.a.lustosa2@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardo-lustosa)  
+- 💻 [GitHub](https://github.com/LeonardoLustosa)
