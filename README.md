@@ -12,7 +12,7 @@ I'm an aspiring software developer currently studying **Systems Analysis and Dev
 - 📢 **Seeking Opportunities:** Open to learning and growing as a developer  
 
 ## 📊 My Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLustosa&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLustosa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Contact Me
 - 📧 Email: leonardo.a.lustosa2@gmail.com 
